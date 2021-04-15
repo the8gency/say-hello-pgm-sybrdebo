@@ -28,11 +28,10 @@ Skills: JS / HTML / CSS / PYTHON
 - 🔭 I’m currently working on this page. 
 
 ## Github stats
-[![Sybren De Boever GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-sybrdebo)](https://github.com/pgm-sybrdebo/github-readme-stats)
 
 <a href="https://github.com/pgm-sybrdebo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-sybrdebo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> &ensp:
+</a> &ensp;
 <a href="https://github.com/pgm-sybrdebo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-sybrdebo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="pgm-sybrdebo's GitHub Stats" />
 </a>
