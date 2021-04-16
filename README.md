@@ -17,7 +17,7 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 
 ## Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter: invert(66%) sepia(69%) saturate(277%) hue-rotate(144deg) brightness(89%) contrast(87%);">](https://github.com/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="fill: #fff;">](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15651169)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter: invert(66%) sepia(69%) saturate(277%) hue-rotate(144deg) brightness(89%) contrast(87%);">](https://github.com/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="fill: #fff;">](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' color=#fff alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15651169)  
 
 ## IT skills
 
