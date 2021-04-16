@@ -18,7 +18,7 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 
 ## Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' filter: invert(66%) sepia(69%) saturate(277%) hue-rotate(144deg) brightness(89%) contrast(87%)>](https://github.com/pgm-sybrdebo)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter: invert(66%) sepia(69%) saturate(277%) hue-rotate(144deg) brightness(89%) contrast(87%);">](https://github.com/pgm-sybrdebo)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sybren-de-boever-27281b114/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pgm-sybrdebo)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15651169)  
@@ -35,6 +35,6 @@ Skills: JS / HTML / CSS / PYTHON
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-sybrdebo&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21" />
 </a> &ensp;
 <a href="https://github.com/pgm-sybrdebo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-sybrdebo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="pgm-sybrdebo's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-sybrdebo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21" alt="pgm-sybrdebo's GitHub Stats" />
 </a>
 
