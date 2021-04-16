@@ -1,11 +1,11 @@
-﻿![Full Stack Developer](https://drscdn.500px.org/photo/1031027995/m%3D900/v2?sig=e631cfc514fe3ad046977a6db7ce84ae70fe8a4ffbbfe205c241dc566b4cf1d8)
+﻿![Full Stack Developer](https://drscdn.500px.org/photo/1031059106/m%3D900/v2?sig=d7a22086d5c59c5365624a7949fe26a0690b418f9c512cddbebbd5824e356aa4)
 
 # Hi there 👋, I am Sybren De Boever
 
 #### Full Stack Developer
 
 ## About me
-
+I am a motivated, ambitious, and hardworking student in programming. I have acquired extensive knowledge in the field through my studies of 'Business Administration - Main subject Management and IT' and 'Computer programming'. I can handle working under pressure as well as communicate and collaborate seamlessly in a teamwork environment. My passion for analyzing and solving problems comes from my curious and perfectionistic nature.
 
 ## Personal Information
 :house: &ensp; Sint-Amandstraat 16, 8760 Meulebeke
@@ -18,8 +18,10 @@
 
 ## Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pgm-sybrdebo)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' filter: invert(66%) sepia(69%) saturate(277%) hue-rotate(144deg) brightness(89%) contrast(87%);>](https://github.com/pgm-sybrdebo)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sybren-de-boever-27281b114/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pgm-sybrdebo)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15651169)  
 
 ## skills
 
