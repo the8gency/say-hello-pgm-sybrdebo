@@ -1,6 +1,6 @@
 <img src="https://drscdn.500px.org/photo/1031059106/m%3D900/v2?sig=d7a22086d5c59c5365624a7949fe26a0690b418f9c512cddbebbd5824e356aa4" width="100%"/>
 
-# Hi there 👋, I am Sybren De Boever
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48px"/>, I am Sybren De Boever
 
 ## About me
 I am a motivated, ambitious, and hardworking student in programming. I have acquired extensive knowledge in the field through my studies of 'Business Administration - Main subject Management and IT' and 'Computer programming'. I can handle working under pressure as well as communicate and collaborate seamlessly in a teamwork environment. My passion for analyzing and solving problems comes from my curious and perfectionistic nature.
@@ -36,6 +36,23 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 <br>
 <br>
 <br>
+
+## Languages
+
+- Dutch &ensp;
+- English &ensp;
+- French &ensp;
+- German &ensp;
+
+## Education 
+
+- 2020 - current &ensp; &ensp;Associate Degree in Computer Programming at Artevelde University College in Ghent
+- 2018 - 2020 &ensp; &ensp; &ensp;  Master Business Administration - Main subject Management and IT obtained with honours at Ghent University
+- 2014 - 2018 &ensp; &ensp; &ensp;  Bachelor Finance, insurance and real estate at Artevelde University College
+- 2008 - 2014 &ensp; &ensp;  &ensp;  Trade economics at the Heilig-Hartcollege Waregem
+ 
+
+
 
 ## Github stats
 
