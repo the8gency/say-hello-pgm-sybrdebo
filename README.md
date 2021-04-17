@@ -17,7 +17,7 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 
 ## Socials
 
-[<img src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1618680362~hmac=f2ff77a3cbd5b872eca50edaac40ed12" alt='github logo' width='40'>](https://github.com/pgm-sybrdebo) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1618680402~hmac=5863e57afa470f3cd08dd1a4dce3bf3e" alt='linkedin logo' width='40'>](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/1626/1626319.svg?token=exp=1618681172~hmac=8db8877488cceb19e1d2d9f2aafeb0c8" alt='codepen logo' width='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1618680386~hmac=b81e26d961972b9d2e3cca0654bb0a6e" alt='stackoverflow logo' width='40'>](https://stackoverflow.com/users/15651169)
+<img src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1618683804~hmac=406dfc580bdc08ef7000c13e6e23203a" alt='github logo' height='40'> &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1618683906~hmac=dcf349fd3872a40a50fd8f182aae9bc2" alt='linkedin logo' width='40'>](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111262.svg?token=exp=1618684019~hmac=1700c9361cfc21ab42517b8862a5471e" alt='codepen logo' width='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1618683953~hmac=b69f27e185410147d3495e8f09a849be" alt='stackoverflow logo' width='40'>](https://stackoverflow.com/users/15651169)
 
 ## Hobbies
 
