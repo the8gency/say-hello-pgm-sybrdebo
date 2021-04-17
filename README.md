@@ -21,7 +21,7 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 
 ## Hobbies
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/562/562384.svg?token=exp=1618652092~hmac=25895624764b9964344f7af0a150ab40" width=48px fill=white>
+<img src="https://www.flaticon.com/svg/vstatic/svg/3159/3159543.svg?token=exp=1618679717~hmac=d19be926c7c7564a3a52ff466e495fc4" width=48px"><img src="https://www.flaticon.com/svg/vstatic/svg/2436/2436636.svg?token=exp=1618680146~hmac=ef516d985dfac693cd152ca92af505f8" width=48px>
 
 ## IT skills
 
@@ -36,6 +36,17 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 <img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <img align="left" alt="Terminal" width="48px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
+
+<br>
+
+
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=62b6ca&color=2bbc8a)
+![Javascript](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)
+
+
+![Visual studio code](https://img.shields.io/badge/code-html-62b6ca?style=flat&logo=HTML5&logoColor=62b6ca)
+
 
 <br>
 <br>
@@ -57,10 +68,10 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 
 ## Education 
 
-- 2020 - current &ensp; &ensp;Associate Degree in Computer Programming at Artevelde University College in Ghent
+- 2020 - current &ensp; &ensp;Associate Degree in Computer Programming at Artevelde University College
 - 2018 - 2020 &ensp; &ensp; &ensp;  Master Business Administration - Main subject Management and IT obtained with honours at Ghent University
 - 2014 - 2018 &ensp; &ensp; &ensp;  Bachelor Finance, insurance and real estate at Artevelde University College
-- 2008 - 2014 &ensp; &ensp;  &ensp;  Trade economics at the Heilig-Hartcollege Waregem
+- 2008 - 2014 &ensp; &ensp;  &ensp;  Trade economics at Heilig-Hartcollege Waregem
 
 ## References 
 
