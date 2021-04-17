@@ -84,6 +84,8 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-sybrdebo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21" alt="pgm-sybrdebo's GitHub Stats" />
 </a>
 
+<br>
+
 <a href="https://github.com/pgm-sybrdebo/Landingpage_Hiking_App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Landingpage_Hiking_App&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21" />
 </a>
