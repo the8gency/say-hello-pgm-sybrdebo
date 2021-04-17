@@ -83,12 +83,9 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 <a href="https://github.com/pgm-sybrdebo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-sybrdebo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21" alt="pgm-sybrdebo's GitHub Stats" />
 </a>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Landingpage_Hiking_App)](https://github.com/pgm-sybrdebo/Landingpage_Hiking_App)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/pgm-sybrdebo/Landingpage_Hiking_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Landingpage_Hiking_App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Landingpage_Hiking_App&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21" />
 </a>
 
 - 🔭 I’m currently working on this page. 
