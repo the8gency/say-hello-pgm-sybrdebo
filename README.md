@@ -17,11 +17,11 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 
 ## Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter= invert(66%) sepia(69%) saturate(277%) hue-rotate(144deg) brightness(89%) contrast(87%);">](https://github.com/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="fill: #fff;">](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' color=#fff alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15651169)  
+[<img src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1618680362~hmac=f2ff77a3cbd5b872eca50edaac40ed12" alt='github logo' width='40'>](https://github.com/pgm-sybrdebo) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1618680402~hmac=5863e57afa470f3cd08dd1a4dce3bf3e" alt='linkedin logo' width='40'>](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/1626/1626319.svg?token=exp=1618681172~hmac=8db8877488cceb19e1d2d9f2aafeb0c8" alt='codepen logo' width='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1618680386~hmac=b81e26d961972b9d2e3cca0654bb0a6e" alt='stackoverflow logo' width='40'>](https://stackoverflow.com/users/15651169)
 
 ## Hobbies
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/3159/3159543.svg?token=exp=1618679717~hmac=d19be926c7c7564a3a52ff466e495fc4" width=48px><img src="https://www.flaticon.com/svg/vstatic/svg/2436/2436636.svg?token=exp=1618680146~hmac=ef516d985dfac693cd152ca92af505f8" width=48px>
+<img src="https://www.flaticon.com/svg/vstatic/svg/3159/3159543.svg?token=exp=1618679717~hmac=d19be926c7c7564a3a52ff466e495fc4" width=48px> &ensp; &ensp; &ensp; &ensp; <img src="https://www.flaticon.com/svg/vstatic/svg/2436/2436636.svg?token=exp=1618680146~hmac=ef516d985dfac693cd152ca92af505f8" width=48px>
 
 ## IT skills
 
