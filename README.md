@@ -21,7 +21,7 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 
 ## Hobbies
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/3159/3159543.svg?token=exp=1618679717~hmac=d19be926c7c7564a3a52ff466e495fc4" width=48px> &ensp; &ensp; &ensp; &ensp; <img src="https://www.flaticon.com/svg/vstatic/svg/2436/2436636.svg?token=exp=1618680146~hmac=ef516d985dfac693cd152ca92af505f8" width=48px>
+<img src="https://www.flaticon.com/svg/vstatic/svg/3159/3159543.svg?token=exp=1618679717~hmac=d19be926c7c7564a3a52ff466e495fc4" width=48px> &ensp; <img src="https://www.flaticon.com/svg/vstatic/svg/2436/2436636.svg?token=exp=1618680146~hmac=ef516d985dfac693cd152ca92af505f8" width=48px>
 
 ## IT skills
 
@@ -37,10 +37,7 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 <img align="left" alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <img align="left" alt="Terminal" width="48px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
 
-<br>
-
-
-
+## IT skills
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=62b6ca&color=2bbc8a)
 ![Javascript](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)
 
@@ -86,7 +83,12 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 <a href="https://github.com/pgm-sybrdebo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-sybrdebo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21" alt="pgm-sybrdebo's GitHub Stats" />
 </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Landingpage_Hiking_App)](https://github.com/pgm-sybrdebo/Landingpage_Hiking_App)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/pgm-sybrdebo/Landingpage_Hiking_App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Landingpage_Hiking_App&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 - 🔭 I’m currently working on this page. 
