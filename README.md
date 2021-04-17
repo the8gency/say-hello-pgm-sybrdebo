@@ -17,7 +17,11 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 
 ## Socials
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter: invert(66%) sepia(69%) saturate(277%) hue-rotate(144deg) brightness(89%) contrast(87%);">](https://github.com/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="fill: #fff;">](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' color=#fff alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15651169)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="filter= invert(66%) sepia(69%) saturate(277%) hue-rotate(144deg) brightness(89%) contrast(87%);">](https://github.com/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style="fill: #fff;">](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' color=#fff alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15651169)  
+
+## Hobbies
+
+<img src="https://www.flaticon.com/svg/vstatic/svg/562/562384.svg?token=exp=1618652092~hmac=25895624764b9964344f7af0a150ab40" width=48px fill=white>
 
 ## IT skills
 
@@ -44,15 +48,24 @@ I am a motivated, ambitious, and hardworking student in programming. I have acqu
 - French &ensp;
 - German &ensp;
 
+## Job experience
+
+- 2018 - 2020 &ensp; &ensp; Student job: Bank clerq at management office Vandenheede in Tiegem
+- 2016 - 2017 &ensp; &ensp; Student job: Administrative assistant at CNH Financial Services in Zedelgem
+- 2013 - 2016 &ensp; &ensp; Student job: Administrative assistant at Procotex NV in Dottignies
+- 2012 - 2014 &ensp; &ensp; Student job: Shop-assistant at BLOKKER in Kuurne and Roeselare 
+
 ## Education 
 
 - 2020 - current &ensp; &ensp;Associate Degree in Computer Programming at Artevelde University College in Ghent
 - 2018 - 2020 &ensp; &ensp; &ensp;  Master Business Administration - Main subject Management and IT obtained with honours at Ghent University
 - 2014 - 2018 &ensp; &ensp; &ensp;  Bachelor Finance, insurance and real estate at Artevelde University College
 - 2008 - 2014 &ensp; &ensp;  &ensp;  Trade economics at the Heilig-Hartcollege Waregem
- 
 
+## References 
 
+- Nicolas Douchy &ensp; &thinsp; &ensp; &ensp; &ensp;Chairman &ensp; &ensp; 0475 41 21 44
+- Henk Vandenheede &ensp; &ensp; Chairman &ensp; &ensp; 0475 66 15 30
 
 ## Github stats
 
