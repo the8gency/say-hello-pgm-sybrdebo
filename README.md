@@ -20,7 +20,7 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 ## Socials
 
-<img src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1618683804~hmac=406dfc580bdc08ef7000c13e6e23203a" alt='github logo' height='40'> &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1618683906~hmac=dcf349fd3872a40a50fd8f182aae9bc2" alt='linkedin logo' width='40'>](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111262.svg?token=exp=1618684019~hmac=1700c9361cfc21ab42517b8862a5471e" alt='codepen logo' width='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1618683953~hmac=b69f27e185410147d3495e8f09a849be" alt='stackoverflow logo' width='40'>](https://stackoverflow.com/users/15651169)
+<img src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1618683804~hmac=406dfc580bdc08ef7000c13e6e23203a" alt='github logo' title='My github page' height='40'> &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1618683906~hmac=dcf349fd3872a40a50fd8f182aae9bc2" alt='linkedin logo' title='My linkedIn' width='40'>](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111262.svg?token=exp=1618684019~hmac=1700c9361cfc21ab42517b8862a5471e" alt='codepen logo' title='My codepen' width='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1618683953~hmac=b69f27e185410147d3495e8f09a849be" alt='stackoverflow logo' title='My stackoverflow' width='40'>](https://stackoverflow.com/users/15651169)
 
 ***
 
@@ -67,17 +67,17 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 ## Education 
 
-- 2020 - current &ensp; &ensp;**Associate Degree in Computer Programming** *at Artevelde University College*
-- 2018 - 2020 &ensp; &ensp; &ensp;  **Master Business Administration - Main subject Management and IT** obtained with honours *at Ghent University*
-- 2014 - 2018 &ensp; &ensp; &ensp;  **Bachelor Finance, insurance and real estate** *at Artevelde University College*
-- 2008 - 2014 &ensp; &ensp;  &ensp;  **Trade economics** *at Heilig-Hartcollege Waregem*
+- 2020 - 2022 &ensp; &ensp; &ensp; **Associate Degree in Computer Programming** *at Artevelde University College*
+- 2018 - 2020 &ensp; &ensp; &ensp; **Master Business Administration - Main subject Management and IT** obtained with honours *at Ghent University*
+- 2014 - 2018 &ensp; &ensp; &ensp; **Bachelor Finance, insurance and real estate** *at Artevelde University College*
+- 2008 - 2014 &ensp; &ensp; &ensp; **Trade economics** *at Heilig-Hartcollege Waregem*
 
 ***
 
 ## References 
 
-- Nicolas Douchy &ensp; &thinsp; &ensp; &ensp; &ensp;Chairman of Procotex &ensp; &ensp; 0475 41 21 44
-- Henk Vandenheede &ensp; &ensp; Chairman of Management office Vandenheede &ensp; &ensp; 0475 66 15 30
+- Nicolas Douchy &ensp; &thinsp; &ensp; &ensp; &ensp;Chairman of Procotex &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 0475 41 21 44
+- Henk Vandenheede &ensp; &ensp; Chairman of Management office Vandenheede &ensp; &ensp;0475 66 15 30
 
 ***
 
