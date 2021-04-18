@@ -79,8 +79,8 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 ## :mag_right: References 
 
-- Nicolas Douchy &ensp; &thinsp; &ensp; &ensp; &ensp;Chairman of Procotex &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 0475 41 21 44
-- Henk Vandenheede &ensp; &ensp; Chairman of Management office Vandenheede &ensp; &ensp;0475 66 15 30
+- Nicolas Douchy &ensp; &thinsp; &ensp; &ensp; &ensp;Chairman of Procotex &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; 0475 41 21 44
+- Henk Vandenheede &ensp; &ensp; Chairman of Management office Vandenheede &ensp; &ensp; &ensp;0475 66 15 30
 
 ***
 
