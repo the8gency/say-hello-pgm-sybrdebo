@@ -89,6 +89,10 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 [![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-sybrdebo&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21)](https://github.com/pgm-sybrdebo) &ensp;
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-sybrdebo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21)](https://github.com/pgm-sybrdebo)
 
+***
+
+## :clipboard: Recent projects
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Landingpage_Hiking_App&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21)](https://github.com/pgm-sybrdebo/Landingpage_Hiking_App) &ensp;
 [![GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=pgm-sybrdebo&repo=Spotify_Api&title_color=ffffff&text_color=c9cacc&icon_color=62b6ca&bg_color=1d1f21)](https://github.com/pgm-sybrdebo/Spotify_Api)
 
