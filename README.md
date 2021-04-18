@@ -22,6 +22,15 @@ I am a motivated, ambitious, and hardworking student in computer programming. I 
 
 <img src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1618683804~hmac=406dfc580bdc08ef7000c13e6e23203a" alt='github logo' title='My github page' height='40'> &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/1409/1409945.svg?token=exp=1618683906~hmac=dcf349fd3872a40a50fd8f182aae9bc2" alt='linkedin logo' title='My linkedIn' width='40'>](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111262.svg?token=exp=1618684019~hmac=1700c9361cfc21ab42517b8862a5471e" alt='codepen logo' title='My codepen' width='40'>](https://codepen.io/pgm-sybrdebo) &ensp; [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111628.svg?token=exp=1618683953~hmac=b69f27e185410147d3495e8f09a849be" alt='stackoverflow logo' title='My stackoverflow' width='40'>](https://stackoverflow.com/users/15651169)
 
+<br>
+
+
+
+[<img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=plastic&logo=LinkedIn" alt="LinkedIn" title="My LinkedIn" height=40px)>](https://www.linkedin.com/in/sybren-de-boever-27281b114/) &ensp;
+[<img src="https://img.shields.io/badge/-Github-5e5e5e?style=plastic&logo=GitHub" alt="Github" title="My Github" height=40px)>](https://github.com/pgm-sybrdebo?tab=repositories) &ensp;
+[<img src="https://img.shields.io/badge/-Codepen-565656?style=plastic&logo=CodePen" alt="CodePen" title="My CodePen" height=40px)>](https://codepen.io/pgm-sybrdebo) &ensp;
+[<img src="https://img.shields.io/badge/-Stackoverflow-ec7c23?style=plastic&logo=Stack-Overflow&logoColor=ffffff" alt="Stackoverflow" title="My Stackoverflow" height=40px)>](https://stackoverflow.com/users/15651169)
+
 ***
 
 ## Hobbies
